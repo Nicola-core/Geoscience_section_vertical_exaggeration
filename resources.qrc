@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/gs_vertical_exaggeration" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
